@@ -1,0 +1,76 @@
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\AnglePage.baml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\MainPage.baml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\MainWindow.baml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\App.baml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\AnglePage.g.cs
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\MainPage.g.cs
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\MainWindow.g.cs
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\App.g.cs
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples_MarkupCompile.cache
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.g.resources
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.Properties.Resources.resources
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.csproj.GenerateResource.Cache
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Samples.exe.config
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Samples.exe
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Samples.pdb
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Microsoft.Kinect.dll
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Microsoft.Kinect.xml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.exe
+C:\Users\A Moeez\Desktop\Vitruvius-master\Kinect v2\WPF\Samples\obj\Debug\Samples.pdb
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Samples.exe.config
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.exe
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.pdb
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Samples.exe
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Samples.pdb
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Microsoft.Kinect.dll
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Microsoft.Kinect.xml
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\AnglePage.baml
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\MainPage.baml
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\MainWindow.baml
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\App.baml
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\AnglePage.g.cs
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\MainPage.g.cs
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\MainWindow.g.cs
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\App.g.cs
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples_MarkupCompile.cache
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.g.resources
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.Properties.Resources.resources
+C:\Users\awars\Downloads\WPF\WPF\Samples\obj\Debug\Samples.csproj.GenerateResource.Cache
+C:\Users\awars\Downloads\WPF\WPF\Samples\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Samples.exe.config
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.exe
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.pdb
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Samples.exe
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Samples.pdb
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\AnglePage.baml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\MainPage.baml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\App.baml
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\AnglePage.g.cs
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\MainPage.g.cs
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\App.g.cs
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples_MarkupCompile.cache
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.g.resources
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.Properties.Resources.resources
+C:\Users\Muhammad Yahya\Desktop\WPF\Samples\obj\Debug\Samples.csproj.GenerateResource.Cache
